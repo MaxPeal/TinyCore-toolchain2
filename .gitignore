@@ -1,0 +1,5 @@
+*.tcz
+*.tar.gz
+
+.vscode/
+.idea/
